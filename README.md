@@ -1,6 +1,6 @@
 # bikesharing
 
-Link to Tableau Story: https://public.tableau.com/app/profile/yating.huang6654/viz/Module14ChallengeDeliverable2/GenderBreakdown#1
+Link to Tableau Story: https://public.tableau.com/app/profile/yating.huang6654/viz/Module14ChallengeDeliverable2/RidershipInNYC#1
 
 Overview of the Analysis:
 The purpose of this analysis is to convince potential backers that bike rental is popular and could likely be a profitable business in Des Moines, IA. Through analysis of NYC data on bike rental, we will draw the conclusion that Des Moines can be just as successful as NY.
